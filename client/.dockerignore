@@ -1,0 +1,9 @@
+node_modules
+build
+.git
+.gitignore
+.vscode
+yarn.lock
+package-lock.json
+yarn-error.log
+*.md
